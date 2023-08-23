@@ -5,3 +5,7 @@ O objetivo dele era colocar em prática conhecimentos sobre composição de cen�
 A proposta do trabalho era criar objetos highpoly no blender e usá-los no cenário. Porém, era permitido o uso de assets de terceiros
 ### Pacotes da Asset Store
 //TODO
+
+### Prévia
+https://github.com/Gu1san/terreno-assets-2/assets/69217564/4be19fd1-aa1a-47cf-817e-23b3e712a65d
+
