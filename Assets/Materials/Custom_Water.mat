@@ -37,12 +37,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Alpha: 0.672
-    - _Amplitude: 0.1
-    - _Frequency: 5
+    - _Alpha: 0.578
+    - _Amplitude: 0.136
+    - _Frequency: 0.13
     - _Glossiness: 0.5
+    - _Intensity: 1.3
     - _Metallic: 0
-    - _Speed: 34.4
+    - _Speed: 0.6
     m_Colors:
-    - _Color: {r: 0.31528127, g: 0.6132076, b: 0.542061, a: 1}
+    - _Color: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
   m_BuildTextureStacks: []
